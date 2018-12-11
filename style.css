@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700');
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+#sec-slides{
+	text-transform: uppercase;
+	font-weight: 300;
+
+}
+
+#sec-slides h1{
+		font-size: 50px;
+}
+
+#sec-about{
+	text-align:center;
+}
+#sec-about .icon{
+	border: 1px solid #111;
+	width: 40px;
+	height: 40px;
+	border-radius: 100%;
+	align-content: center;
+}
+
+#sec-about h3{
+	text-transform: uppercase;
+}
+.titulo{
+	font-size: 30px;
+	text-transform: uppercase;
+	color: #111;
+	margin-bottom: 40px;
+	text-align: center;
+}
+#sec-counter{
+	background-color:#010101;
+	text-align:center;
+	color:white;
+	padding: 100px 100px;
+}
+
+#sec-counter h3{
+	font-weight: 300;
+	font-size: 30;
+}
+#sec-counter h5{
+	color:#FE8F01;
+	font-size: 14px;
+}
+
+.icon-counter{
+	font-size: 100px;
+}
+
+footer{
+	background-color: #2F2F2F;
+	text-align: center;
+	color: #aaa;
+	font-size: 14px;
+	padding: 10px 0px;
+}
